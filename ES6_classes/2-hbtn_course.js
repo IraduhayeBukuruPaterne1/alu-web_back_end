@@ -1,4 +1,3 @@
-
 export default class HolbertonCourse {
   constructor(name, length, students) {
     this.name = name;
@@ -39,4 +38,3 @@ export default class HolbertonCourse {
     this._students = newStudents;
   }
 }
-
